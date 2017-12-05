@@ -1,10 +1,14 @@
 # Andorid Lesson Exam about Movie
 
-## The important part 
+## The important part （20 percent）
 
 - MovieAdapter
-	getView()
-
+  getView()
 - DownloadTask extends AsyncTask<>
-
 - UpdateNoticeTask
+
+
+
+## The result show
+
+![show](show.png)
